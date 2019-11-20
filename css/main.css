@@ -1,0 +1,22 @@
+:root {
+  --cyellow: #FFCC7C;
+  --corange: #E88C6F;
+  --cpink: #FF87CB;
+  --cpurple: #AB6FE8;
+  --cblue: #96B0FF;
+  --cgray: #171A26;
+}
+
+nav {
+  padding: 40px;
+  color: var(--cgray);
+  text-align: center;
+  background-color: var(--cpink);
+}
+
+.title {
+  padding: 50px 0;
+  color: var(--cgray);
+  text-align: center;
+  background-color: var(--cpurple);
+}
